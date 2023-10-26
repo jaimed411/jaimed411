@@ -86,11 +86,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaimed411/jaimed411/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jaimed411/count.svg?"  />
