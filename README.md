@@ -75,32 +75,13 @@
 
 ###
 
-<div align="center"> <!-- Cambiado a "center" para centrar el contenido -->
-  <img align="left" height="150" src="https://i.imgflip.com/83xky7.gif"  /> <!-- Cambiado a "align="left" para alinear a la izquierda -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimed411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-</div>
+<img align="left" height="150" src="https://i.imgflip.com/83xky7.gif"  />
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jdodero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=jaimed&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/j.aime.d/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=j.aime.d&logo=instagram&label=&color=f2c80f&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimed411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimed411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jaimed411/count.svg?"  />
 </div>
 
 ###
