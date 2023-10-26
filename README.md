@@ -75,7 +75,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/83xky7.gif"  />
+<img align="left" height="300" src="https://i.imgflip.com/83xky7.gif"  />
 
 ###
 
