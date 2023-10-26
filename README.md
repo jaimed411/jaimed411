@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I have 6 years of experience in the world of graphic design withseveral companies in diferent sectors. I have decided to update my profile and I am doing an intensive course in Data Science and Machine Learning, where I have acquired the necessary knowledge to be a data scientist.<br><br>I am self-taught, responsible, curious and passionate about solving problems. I am always looking for challenges in the data world, and I enjoy exploring innovative solutions that can generate a positive impact on the business.<br><br> I have a recognized hearing impairment of 36%. I wear a hearing aid and a hearing implant but it does not prevent me from doing my job. <br><br><br>Why don't we work together?</p>
+<p align="left">ᴊᴜɴɪᴏʀ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ • 36% ʀᴇᴄᴏɢɴɪᴢᴇᴅ ʜᴇᴀʀɪɴɢ ɪᴍᴘᴀɪʀᴍᴇɴᴛ • ᴇᴅᴀ • ᴅᴀᴛᴀ ᴠɪꜱᴜᴀʟɪᴛᴀᴛɪᴏɴ ᴀɴᴅ ᴍᴏᴅᴇʟɪɴɢ ᴀʟɢᴏʀɪᴛʜᴍꜱ • ᴍʟ • ꜱᴜᴘᴇʀᴠɪꜱᴇᴅ ʟᴇᴀʀɴɪɴɢ • ɴᴜᴍᴘʏ • ᴘʏᴛʜᴏɴ • ᴘᴀɴᴅᴀꜱ ꜱᴛʀᴇᴀᴍʟɪᴛ • ꜰʟᴀꜱᴋ <br><br><br>Why don't we work together?</p>
 
 ###
 
