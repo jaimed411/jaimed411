@@ -1,4 +1,4 @@
-<h2 align="left" style="color: #000000;">Hi 👋! My name is Jaime and I'm from Spain but currently live in Andorra ⛰️. Looking for my first opportunity as junior data scientist on-site or remote🤗</h2>
+<h2 align="left" style="color: #000000;">Hi 👋! My name is Jaime and I'm from Spain but currently live in Andorra ⛰️. Looking for my first opportunity as a junior possition on-site or remote🤗</h2>
 
 ###
 
