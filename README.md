@@ -1,20 +1,15 @@
-<h2 align="left" style="color: #000000;">Hi 👋! My name is Jaime and I'm from Spain but currently live in Andorra ⛰️. Looking for my first opportunity as a junior possition on-site or remote🤗</h2>
+<h2 align="left" style="color: #000000;">Hi 👋! My name is Jaime and I'm from Spain but currently living in Andorra ⛰️</h2>
 
 ###
 
-<img align="left" height="300" src="https://i.imgflip.com/83xky7.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimed411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimed411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<img align="center" height="600" src="https://i.imgflip.com/83xky7.gif"  />
 
 ###
 
 
-<p align="left">ᴊᴜɴɪᴏʀ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ • 36% ʀᴇᴄᴏɢɴɪᴢᴇᴅ ʜᴇᴀʀɪɴɢ ɪᴍᴘᴀɪʀᴍᴇɴᴛ • ᴇᴅᴀ • ᴅᴀᴛᴀ ᴠɪꜱᴜᴀʟɪᴛᴀᴛɪᴏɴ ᴀɴᴅ ᴍᴏᴅᴇʟɪɴɢ ᴀʟɢᴏʀɪᴛʜᴍꜱ • ᴍʟ • ꜱᴜᴘᴇʀᴠɪꜱᴇᴅ ʟᴇᴀʀɴɪɴɢ • ɴᴜᴍᴘʏ • ᴘʏᴛʜᴏɴ • ᴘᴀɴᴅᴀꜱ ꜱᴛʀᴇᴀᴍʟɪᴛ • ꜰʟᴀꜱᴋ
+###
+
+
 
 ###
 
